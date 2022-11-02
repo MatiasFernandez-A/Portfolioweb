@@ -14,3 +14,10 @@
     justify-content: center;
     align-items: center;
 }
+
+.titulo-container h1{
+    font-family: 'Playfair Display', serif;
+}
+.parrafo-container p{
+    font-family: 'Inter', sans-serif;
+}

@@ -36,11 +36,16 @@ function MainContainer() {
             <p className="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, natus aliquid consequatur veritatis dicta maxime.</p>
             <p className="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, natus aliquid consequatur veritatis dicta maxime.</p>
             <p className="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, natus aliquid consequatur veritatis dicta maxime.</p>
+
+            <ul className="rrss">
+                <li className="li">
+                    <a href="" className="a" title="Nombre" target="_blank" rel="noopener noreferrer">
+                        <svg className="svg"></svg>
+                    </a>
+                </li>
+            </ul>
         </section>
-
         {/* Hacer los componentes de cada uno de los contenedores y ordenarlos bien */}
-
-        
     </main>
   )
 }

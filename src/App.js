@@ -6,9 +6,9 @@ function App() {
   return (
     <div>
       <NavBar/>
-      <MainContainer/>
-{/*       <UserContainer/>
- */}    </div>
+    {/*<MainContainer/> */}
+    {/*<UserContainer/> */} 
+  </div>
   );
 }
 

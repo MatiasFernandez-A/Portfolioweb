@@ -1,0 +1,10 @@
+            CSS 
+-Intentar no usar en Css las etiquetas, siempre usar clases     
+
+-Y el ID solo para JS o anclas 
+
+-Siempre usar en altura min-height y no height, a menos que sea una posicion absoluta y nunca en porcentaje
+
+- Simpre escribir las propiedades en el mismo orden. Beneficios: 
+    - Memoria muscular (Por repetir demasiado)
+    - Ordenamiento mas legible y sirve mucho para corregir errores y saber dónde esta el error

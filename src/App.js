@@ -1,14 +1,14 @@
-import MainContainer from "./components/MainContainer/MainContainer";
 import NavBar from "./components/NavBar/NavBar";
-import UserContainer from "./components/UserContainer/UserContainer";
+import MainContainer from "./components/MainContainer/MainContainer";
+import FooterContainer from "./components/FooterContainer/FooterContainer";
 
 function App() {
   return (
     <div>
-      <NavBar/>
-    {/*<MainContainer/> */}
-    {/*<UserContainer/> */} 
-  </div>
+      <NavBar />
+      <MainContainer />
+      <FooterContainer />
+    </div>
   );
 }
 

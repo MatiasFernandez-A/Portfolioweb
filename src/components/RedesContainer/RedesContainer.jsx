@@ -9,6 +9,11 @@ function RedesContainer() {
                     <svg className="svg"></svg>
                 </a>
             </li>
+            <li className="li">
+                <a href="" className="a" title="Nombre" target="_blank" rel="noopener noreferrer">
+                    <svg className="svg"></svg>
+                </a>
+            </li>
         </ul>
     )
 }

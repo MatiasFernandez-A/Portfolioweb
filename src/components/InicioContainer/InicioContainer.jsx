@@ -10,6 +10,15 @@ function InicioContainer() {
             <section className="section">
                 <h2 className="h2">Matias Fernandez Almeda</h2>
                 <h3 className="h3">Desarrollador Web Frontend</h3>
+
+                <ul className="ul">
+                  <li className="li">
+                    <a href="#" className="a" title="Github">Visita mi GitHub</a>
+                  </li>
+                  <li className="li">
+                    <a href="#" className="a" title="LinkedIn">Visita mi Linkedin</a>
+                    </li>
+                </ul>
             </section>
         </div>
   )

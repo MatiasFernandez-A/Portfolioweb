@@ -1,3 +1,16 @@
 .seccion{}
 .seccion .h2{}
 .seccion .h3{}
+.seccion .ul{
+/*     background-color: brown;
+ */    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+.seccion .ul .li{
+/*     background-color: pink;
+ */    margin:0 1em;
+}
+.seccion .ul .a{}
+

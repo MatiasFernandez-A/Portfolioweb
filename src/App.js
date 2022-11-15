@@ -8,6 +8,20 @@ function App() {
       <NavBar />
       <MainContainer />
       <FooterContainer />
+
+
+
+
+
+
+      {/* 
+      
+      
+      me quede en 1:01:00
+      
+      
+      
+      */}
     </div>
   );
 }

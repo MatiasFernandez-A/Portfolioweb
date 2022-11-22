@@ -17,7 +17,7 @@ function App() {
       {/* 
       
       
-      me quede en 1:01:00
+      me quede en 1:22:00
       
       
       

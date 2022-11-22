@@ -7,9 +7,9 @@ function InicioContainer() {
   return (
     <div className="seccion" id="inicio">
             <CirclesContainer/>
-            <section className="section">
+            <section className="section info">
                 <h2 className="h2">Matias Fernandez Almeda</h2>
-                <h3 className="h3">Desarrollador Web Frontend</h3>
+                <h3 className="h3">Frontend Developer</h3>
 
                 <ul className="ul">
                   <li className="li">

@@ -1,5 +1,8 @@
 import React from 'react'
 import './GridContainer.css'
+import imagenChica from '../../assets/images/chica.jpg'
+import imagenChico from '../../assets/images/chico.jpg'
+
 
 
 function GridContainer() {
@@ -8,7 +11,7 @@ function GridContainer() {
             <article className="article">
                 <a className="a" href="#" title="Trabajo1">
                     <figure className="figure">
-                        <img src="#" alt="Imagen" className="img" loading="lazy" />
+                        <img src={imagenChica} alt="Imagen" className="img" loading="lazy" />
                     </figure>
                     <h4 className="h4">Nombre del trabajo</h4>
                 </a>
@@ -16,7 +19,7 @@ function GridContainer() {
             <article className="article">
                 <a className="a" href="#" title="Trabajo1">
                     <figure className="figure">
-                        <img src="#" alt="Imagen" className="img" loading="lazy" />
+                        <img src={imagenChico} alt="Imagen" className="img" loading="lazy" />
                     </figure>
                     <h4 className="h4">Nombre del trabajo</h4>
                 </a>

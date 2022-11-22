@@ -1,16 +1,38 @@
 .seccion{}
-.seccion .h2{}
-.seccion .h3{}
+.seccion .info{
+    font-size: 1.2em;
+}
+.seccion .h2{
+    font-family: var(--tipo-titular);
+    font-weight: 600;
+    font-size: 5em;
+    line-height: 1em;
+}
+.seccion .h3{
+    font-family: var(--tipo-titular);
+    font-size: 4.3em;
+    font-weight: 100;
+}
 .seccion .ul{
-/*     background-color: brown;
- */    display: flex;
+    display: flex;
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
+    margin: 2em 0 0;
 }
 .seccion .ul .li{
 /*     background-color: pink;
  */    margin:0 1em;
 }
-.seccion .ul .a{}
+.seccion .ul .a{
+    border: solid 1px rgba(0, 0, 0, .2);
+    border-radius:.5em;
+    padding:1em 1em 1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: all .5s ease;
+}
+.seccion .ul .a:hover{
+    border-color: black;
+}
 

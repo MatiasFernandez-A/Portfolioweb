@@ -3,7 +3,7 @@ body{
 }
 .main{
     background-color: lightgray;
-    margin: 1em 0; 
+    margin: o o 1em; 
     text-align: center;
 }
 .seccion{ 
@@ -17,4 +17,8 @@ body{
     flex-flow: column wrap;
     justify-content: center;
     align-items: center;
+}
+:root{
+    --tipo-titular: 'Playfair Display', serif;
+    --tipo-subtitulo: 'Inter', sans-serif ;
 }

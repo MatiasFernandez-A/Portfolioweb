@@ -8,3 +8,7 @@
 - Simpre escribir las propiedades en el mismo orden. Beneficios: 
     - Memoria muscular (Por repetir demasiado)
     - Ordenamiento mas legible y sirve mucho para corregir errores y saber dónde esta el error
+
+            Consejos para mejorar el responsive de la pagina
+-No utilizar alturas fijas(siempre en porcentaje o alturas minimas)
+-utilizar fontsize em para cambiar en movile

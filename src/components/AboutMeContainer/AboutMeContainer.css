@@ -1,10 +1,13 @@
 .about{}
-.about .h2{}
+.about .h2{
+    margin: 0 0 2rem;
+}
 .about .p{
-    background-color: green;
-    max-width: 40em;
+/*     background-color: green;
+ */    
+    max-width: 40rem;
     text-align: left;
-    
-    margin: 0 0 1em;/* top right bottom */
+    font-size: 1.5em;
+    margin: 0 0 2rem;/* top right bottom */
     
 }

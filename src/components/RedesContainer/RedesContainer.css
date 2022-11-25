@@ -1,7 +1,7 @@
 .rrss{
     width: 100%;
-    background-color: rgb(153, 92, 11);
-    display: flex;
+/*     background-color: rgb(153, 92, 11);
+ */    display: flex;
     flex-flow: row wrap;
     justify-content: center;
     align-items: center;
@@ -9,11 +9,11 @@
 }
 .rrss .li{
     margin: 0 1em;
-    background-color: orange;
-}
+/*     background-color: orange;
+ */}
 .rrss .a{}
 .rrss .svg{
-    width: 2em;
-    height: 2em;
-    background-color: red;
-}
+    width: 3em;
+    height: 3em;
+/*     background-color: red;
+ */}

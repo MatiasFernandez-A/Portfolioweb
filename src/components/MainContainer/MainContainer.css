@@ -2,17 +2,15 @@ body{
     font-family: 'Inter', sans-serif;
 }
 .main{
-    background-color: lightgray;
     margin: o o 1em; 
     text-align: center;
+    position: relative;
+    z-index: 2;
 }
 .seccion{ 
     width: 100%;
     min-height: 80vh;
-    background-color: lime;
     margin: 1em 0; 
-    background-color: lightblue;
-
     display: flex;
     flex-flow: column wrap;
     justify-content: center;

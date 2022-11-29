@@ -20,7 +20,8 @@ a{
     flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
-    background-color: lightblue;
+    position: relative;
+    z-index: 2;
 }
 .header .h1{
     /*font-family: 'Playfair Display', serif; */    
@@ -39,11 +40,3 @@ a{
     font-family: 'Inter', sans-serif;
 }
 .header .li .a{}
-
-
-/* 
-
-
-me quede en el minuto 42:37
-
-*/

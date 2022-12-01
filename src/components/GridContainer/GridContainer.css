@@ -27,15 +27,14 @@ figure{
     position: relative;
 
     overflow: hidden;
+    border-radius: .4em;
 }
 .grid .a{}
 .grid .figure{
     width: 100%;
-    background-color: red;
 }
 .grid .img{
     width: 100%;
-    background-color:lime;
 }
 .grid .h4{
     width: 100%;

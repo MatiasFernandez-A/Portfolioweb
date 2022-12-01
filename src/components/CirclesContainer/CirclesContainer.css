@@ -24,10 +24,10 @@
 @keyframes circulo1{
     /* ponerlo a lo ultimo del css */
     from{
-        transform: rotate(0deg) scale(3);
+        transform: rotate(0deg) scale(3.3);
     }
     to{
-        transform: rotate(360deg) scale(3);
+        transform: rotate(360deg) scale(3.3);
     }
 }
 .circulos .circulo1 .path{

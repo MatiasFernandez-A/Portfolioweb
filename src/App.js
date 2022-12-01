@@ -6,26 +6,10 @@ import CirclesContainer from "./components/CirclesContainer/CirclesContainer";
 function App() {
   return (
     <div>
-
       <CirclesContainer/>
-
       <NavBar />
       <MainContainer />
       <FooterContainer />
-
-
-
-
-
-
-      {/* 
-      
-      
-      me quede en 1:22:00
-      
-      
-      
-      */}
     </div>
   );
 }

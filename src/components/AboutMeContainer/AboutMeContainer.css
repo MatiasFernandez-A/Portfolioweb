@@ -4,8 +4,7 @@
 }
 .about .p{
     max-width: 40rem;
-    text-align: left;
-    font-size: 1.1em;
+    text-align: center;
+    font-size: 1.3em;
     margin: 0 0 2rem;/* top right bottom */
-    
-}
+    color: rgba(255, 255, 255, 0.382);}

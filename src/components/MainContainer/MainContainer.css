@@ -1,5 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;   
+    box-sizing:border-box;
+}
+li{
+    list-style:none;
+}
+a{
+    text-decoration: none;
+    cursor: none;
+}
 body{
     font-family: 'Inter', sans-serif;
+    cursor: none;/* para que desaparezca el cursor */
 }
 .main{
     margin: o o 1em; 
@@ -23,3 +38,75 @@ body{
     --tipo-titular: 'Playfair Display', serif;
     --tipo-subtitulo: 'Inter', sans-serif ;
 }
+#cursor{
+    width: 5em;
+    height: 5em;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    pointer-events: none;
+    border-radius: 50%;
+    mix-blend-mode: difference;
+}
+
+/* ---------------------------- Extraido del otro css ------------------ */
+
+body{
+    cursor: none;
+}
+a{
+    cursor: none;
+}
+#cursor{
+    width: 4em;
+    height: 4em;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    pointer-events: none;
+    border-radius: 50%;
+    mix-blend-mode: difference;
+}
+.mini{
+    transform: scale(0.7);
+    transition: all .1s linear;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

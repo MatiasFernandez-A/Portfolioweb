@@ -14,11 +14,8 @@
 }
 .seccion .h3{
     font-family: var(--tipo-titular);
-    font-size: 4.3em;
+    font-size: 3.5em;
     font-weight: 100;
-    color: white;
-}
-.seccion .p{
     color: white;
 }
 .seccion .ul{

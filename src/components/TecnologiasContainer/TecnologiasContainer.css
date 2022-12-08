@@ -1,0 +1,12 @@
+.tecnologies .h2{
+    margin: 0 0 2.7rem;
+}
+.tecnologies .ul .li{
+    margin: 1.5rem 2rem;
+}
+.tecnologies .ul .li .svg{
+    width: 6rem;
+    height: 6rem;
+    fill: white;
+    transition: all .3s ease;
+}

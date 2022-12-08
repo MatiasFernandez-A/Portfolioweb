@@ -1,5 +1,4 @@
 import MainContainer from "./components/MainContainer/MainContainer";
-import FooterContainer from "./components/FooterContainer/FooterContainer";
 import CirclesContainer from "./components/CirclesContainer/CirclesContainer";
 
 function App() {
@@ -7,7 +6,6 @@ function App() {
     <div>     
       <CirclesContainer/>
       <MainContainer />
-      <FooterContainer />
     </div>
   );  
 }

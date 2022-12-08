@@ -31,26 +31,26 @@
     }
 }
 .circulos .circulo1 .path{
-    fill: seagreen;
+    fill: #96958a;
 }
 .circulos .circulo2{
     top: 0%;
     right: 0%;
 }
 .circulos .circulo2 .path{
-    fill: black;
+    fill: #76877d;
 }
 .circulos .circulo3{
     bottom: 0%;
     left: 0%;
 }
 .circulos .circulo3 .path{
-    fill: rgb(171, 135, 51);
+    fill: #88b8a9;
 }
 .circulos .circulo4{
     bottom: 0%;
     right: 0%;
 }
 .circulos .circulo4 .path{
-    fill: rgb(43, 52, 113);
+    fill: #b2cbae;
 }
